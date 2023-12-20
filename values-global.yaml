@@ -10,7 +10,7 @@ global:
     cloudProvider: aws
     storageClassName: gp2-csi
     region: us-east-1
-    clustername: msi-managed
+    clustername: medical-vp
     domain: aws.interop.ccitredhat.com
 
   xraylab:
